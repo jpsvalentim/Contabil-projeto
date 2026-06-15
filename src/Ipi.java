@@ -1,3 +1,4 @@
+package src;
 public class Ipi implements Imposto {
     private final double valorProduto, frete, seguro, outrasDespesas, aliquota;
 
